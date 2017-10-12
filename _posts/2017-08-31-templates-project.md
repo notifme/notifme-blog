@@ -13,6 +13,8 @@ To set the context, I'm [on a mission](https://notifme.github.io/notifme-blog/20
 I think templates should be handle inside the code, but should be editable by anyone on the team, which is not possible at the moment. I'd like to start an open source project tackling that, but I'd like to be sure that it's a real problem.
 <!--more-->
 
+> _Update: given the low enthusiasm around this project, I'll let it aside for the time being..._
+
 ## The case
 
 ### 1. Templates should be in the code
