@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://notifme.github.io/notifme-sdk-blog"
+url: "https://notifme.github.io/notifme-blog"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -74,4 +74,4 @@ markdown: kramdown
 kramdown:
     auto_ids: false
 
-repository: notifme/notifme-sdk-blog
+repository: notifme/notifme-blog

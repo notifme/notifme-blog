@@ -8,7 +8,7 @@ comments: true
 ---
 *By [David Brown](https://twitter.com/BDavid24)*
 
-To set the context, I'm [on a mission](https://notifme.github.io/notifme-sdk-blog/2017/08/22/genesis.html) to help startups improve the quality of their communication with their users. Today I have a question about the templates of your transactional notifications (email, SMS, push, webpush...).
+To set the context, I'm [on a mission](https://notifme.github.io/notifme-blog/2017/08/22/genesis.html) to help startups improve the quality of their communication with their users. Today I have a question about the templates of your transactional notifications (email, SMS, push, webpush...).
 
 I think templates should be handle inside the code, but should be editable by anyone on the team, which is not possible at the moment. I'd like to start an open source project tackling that, but I'd like to be sure that it's a real problem.
 <!--more-->
